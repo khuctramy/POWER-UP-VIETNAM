@@ -1,4 +1,4 @@
-# Link video introduce app: https://drive.google.com/file/d/10pK9ASji8cSCaAXiBcw-9aRBKaxRD_3r/view?usp=sharing
+Link video introduce app: https://drive.google.com/file/d/10pK9ASji8cSCaAXiBcw-9aRBKaxRD_3r/view?usp=sharing
 
 # INSTALLATION
 ## Step 1: Clone my source code
