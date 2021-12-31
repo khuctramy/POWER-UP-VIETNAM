@@ -1,6 +1,6 @@
-# Learning App
+# Link video introduce app: https://drive.google.com/file/d/10pK9ASji8cSCaAXiBcw-9aRBKaxRD_3r/view?usp=sharing
 
-# These are steps to install my app
+# INSTALLATION
 ## Step 1: Clone my source code
 - `git clone https://github.com/khuctramy/teaching-app.git`
 ## Step 2: Access the project directory
